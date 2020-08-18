@@ -1,0 +1,4 @@
+*.user
+*.filters
+HellWorld/Debug/
+HellWorld/.vs/
